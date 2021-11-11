@@ -21,6 +21,6 @@ ositive directional derivative for linesearch
 
 목적함수를 convex 문제로 변경하면 cvxpy 라이브러리도 사용할 수 있을 것으로 보인다.
 
-이 외에도 qulib?에서 risk parity를 구현하는 방식도 참고하면 좋을 것 같다.
+이 외에도 qlib에서 risk parity를 구현하는 방식도 참고하면 좋을 것 같다.
 
 여기는 또 다른 목적함수를 사용하며 scipy 패키지를 사용하여 문제를 해결한다.
