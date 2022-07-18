@@ -1,6 +1,6 @@
-# portfolio_optimizer
+# Risk Parity Optimizer
  
-risk parity 전략의 objevtive funciton은 가장 흔하게 발견할 수 있는 function을 사용했다.
+risk parity 전략의 objective funciton은 가장 흔하게 발견할 수 있는 function을 사용했다.
 
 하지만 이 목적 함수는 convex 문제가 아니어서 수정이 필요하다.
 
